@@ -1,0 +1,60 @@
+body {
+    background-color: blue;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+
+}
+
+p {
+    color: rgb(231, 255, 205);
+    background-color: orange;
+    border-radius: 20px; 
+    padding: 32px 28px;
+    margin: 32px 
+    
+}
+
+h2 {
+    color: burlywood;
+}
+
+a {
+    color: black;
+}
+img {
+    width: 200px; 
+    height: 200px;
+    border-radius: 40px;
+    border: 5px dashed rgb(242, 0, 255);
+
+}
+body {
+    text-align: center;
+    
+}
+div {
+    border: 5px dashed yellow;
+    border-radius: 80px; 
+    background-color: brown;
+    padding: 32px 28px;
+    box-shadow: 0 40px 90px rgba(0, 0, 0, 0.653);
+    margin: 32px 
+    
+}
+a {
+    
+    display: inline-block;
+    padding: 5px 20px; 
+    background-color: #34db39;
+    color: #fff; 
+    border: none; 
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px; 
+    cursor: pointer;    
+}
+a:hover {
+    color: violet
+    
+}
